@@ -36,6 +36,7 @@ highlighted using comments.
 ```php
 namespace Album;
 
+// Add this import statement:
 use Laminas\Router\Http\Segment;
 use Laminas\ServiceManager\Factory\InvokableFactory;
 
